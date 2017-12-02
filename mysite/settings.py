@@ -25,7 +25,7 @@ SECRET_KEY = 'izjg7z)m)qj+84u30w82+vxfe)c_ki+e9%=*d$d%v(+m4r&q2#'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<cleoruki>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'cleoruki.pythonanywhere.com']
 
 
 # Application definition
